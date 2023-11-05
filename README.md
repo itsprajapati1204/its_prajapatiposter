@@ -1,11 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Python,React<br><br>👨‍💻 All of my projects are available at <a href="https://shubham-portfolio-sooty.vercel.app/" class="new">Portfolio</a><br><br>💬 Ask me about Web development<br><br>📫 How to reach me siddharthsingh75250@gmail.com
-<style>
-  .new{
-    text-decoration:none;
-  }
-  
-</style>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_prajapati1204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-singh-prajapati) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Prajapatieditx) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itsprajapati1204) 
